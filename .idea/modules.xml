@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Plugin API - 1.10.2/Plugin API - 1.10.2.iml" filepath="$PROJECT_DIR$/Plugin API - 1.10.2/Plugin API - 1.10.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Plugin API - 1.11.2/Plugin API - 1.11.2.iml" filepath="$PROJECT_DIR$/Plugin API - 1.11.2/Plugin API - 1.11.2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plugin API - 1.8/Plugin API - 1.8.iml" filepath="$PROJECT_DIR$/Plugin API - 1.8/Plugin API - 1.8.iml" />
       <module fileurl="file://$PROJECT_DIR$/Plugin API - 1.9.4/Plugin API - 1.9.4.iml" filepath="$PROJECT_DIR$/Plugin API - 1.9.4/Plugin API - 1.9.4.iml" />
     </modules>
