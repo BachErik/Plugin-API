@@ -7,18 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="Plugin API - 1.8" />
-        <module name="Plugin API - 1.11.2" />
-        <module name="Plugin API - 1.10.2" />
-        <module name="Plugin API - 1.15.2" />
         <module name="Plugin API - 1.9.4" />
-        <module name="Plugin API - 1.13.2" />
+        <module name="Plugin API - 1.10.2" />
+        <module name="Plugin API - 1.11.2" />
         <module name="Plugin API - 1.12.2" />
-        <module name="Plugin API - 1.16.4" />
+        <module name="Plugin API - 1.13.2" />
         <module name="Plugin API - 1.14.4" />
+        <module name="Plugin API - 1.15.2" />
+        <module name="Plugin API - 1.16.4" />
         <module name="Plugin API - 1.17.1" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Plugin API - 1.8" target="1.8" />
+      <module name="Plugin API - 1.9.4" target="1.8" />
       <module name="Plugin API - 1.10.2" target="1.8" />
       <module name="Plugin API - 1.11.2" target="1.8" />
       <module name="Plugin API - 1.12.2" target="1.8" />
@@ -29,8 +31,6 @@
       <module name="Plugin API - 1.17.1" target="1.8" />
       <module name="Plugin API - 1.19.2" target="1.8" />
       <module name="Plugin API - 1.19.3" target="1.8" />
-      <module name="Plugin API - 1.8" target="1.8" />
-      <module name="Plugin API - 1.9.4" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
