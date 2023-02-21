@@ -1,6 +1,6 @@
-name: Pluginapi
+name: PluginAPI
 version: '${project.version}'
-main: de.bacherik.pluginapi.Pluginapi
+main: de.bacherik.pluginapi.Main
 api-version: 1.13
 authors: [ BachErik ]
 description: This is a API that should make it easier to create Spigot plugins.
