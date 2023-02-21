@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_DIR=output
+OUTPUT_DIR=plugins
 
 if [ ! -d "$OUTPUT_DIR" ]; then
   mkdir "$OUTPUT_DIR"

@@ -1,6 +1,6 @@
 @echo off
 
-set OUTPUT_DIR=output
+set OUTPUT_DIR=plugins
 
 if not exist %OUTPUT_DIR% mkdir %OUTPUT_DIR%
 
