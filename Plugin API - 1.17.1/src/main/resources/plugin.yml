@@ -1,4 +1,4 @@
-name: Plugin API
+name: PluginAPI
 version: '${project.version}'
 main: de.bacherik.pluginapi.Main
 api-version: 1.17
