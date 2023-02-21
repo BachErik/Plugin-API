@@ -6,3 +6,4 @@
 - [ ] Boss bar
 - [ ] NPC's
 - [ ] Easier world generation
+- [ ] Item configuration
