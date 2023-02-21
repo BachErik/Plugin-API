@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"de.bacherik.pluginapi.builder","l":"BossBarBuilder"},{"p":"de.bacherik.pluginapi","l":"Main"}];updateSearchResults();
